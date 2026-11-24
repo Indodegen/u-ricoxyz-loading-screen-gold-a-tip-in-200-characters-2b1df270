@@ -1,0 +1,1 @@
+Tip: you and your AI agent are both waiting on the same build. One of you is panicking. The other one cannot panic. Be the other one.
